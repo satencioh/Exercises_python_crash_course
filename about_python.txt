@@ -1,0 +1,5 @@
+En Python tu puedes crear listas que son mutables 
+En Python tu puedes crear tuplas que son inmutables
+En Python tu puedes manejar de archivos
+En Python tu puedes crear funciones para tus necesidades
+En Python tu puedes utilizar if, else, elif.
