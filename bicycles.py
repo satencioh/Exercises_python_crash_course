@@ -1,5 +1,5 @@
 # strture the a list
-bicycles = ['trek', 'cannodable', 'redline', 'specialized']
+bicycles = ['trekuit', 'cannodable', 'redline', 'specialized']
 print(bicycles)
 
 #accessing elements in a list
